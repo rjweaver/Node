@@ -1,0 +1,8 @@
+{
+    "name": "upload Site",
+    "description": "Http server that uploads pictures",
+    "version": "0.1.0",
+    "author": "Robert Weaver",
+    "dependencies": {},
+    "devDependencies": {}
+}
